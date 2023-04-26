@@ -1,11 +1,10 @@
 import React from 'react';
-import pp from '../../public/images/pp.jpg'
 
 const About = ({data}) => {
     return (  
         <>
             <div className='d-flex flex-column align-items-center p-4' id='about'>
-                <h2>Conocenos</h2>
+                <h2>Conócenos</h2>
 
                 <div className="row row-cols-1 row-cols-md-4 g-0 p-3 m-0">
                     {data.map((member)=>

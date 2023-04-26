@@ -16,7 +16,7 @@ const App = () => {
     return (  
         <>
 
-            <Navbar data={segments}/>
+            {/* <Navbar data={segments}/> */}
 
             <div className='d-flex flex-column justify-content-center bg-dark-subtle'>
                 <div className='w-100 m-0 p-4 text-center d-flex align-items-end' style={{"backgroundImage" : "url(/images/banner.jpg)", "backgroundSize" : "cover", "height" : "50vh"}}>

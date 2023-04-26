@@ -21,13 +21,13 @@
     "files" : [
         {
             "title" : "Visita el Artículo",
-            "file" : "path"
+            "file" : "/files/Articulo_Expo.pdf"
         },{
             "title" : "Descarga el Artículo",
-            "file" : "path"
+            "file" : "/files/Articulo_Completo.docx"
         },{
             "title" : "Visita el Póster",
-            "file" : "path"
+            "file" : "/files/Poster.pdf"
         }
     ],
     "about" : [
@@ -35,7 +35,7 @@
             "name" : "Carlos A. Cancino Escobar",
             "carrer" : "Ingeniería en Sistemas Computacionales",
             "semester" : "Sexto Semestre",
-            "pp" : "/images/pp.jpg"
+            "pp" : "/images/pp_Cancino.jpg"
         },{
             "name" : "Carlos Emilio Cruz Mendoza",
             "carrer" : "Ingeniería Mecatrónica",
