@@ -1,0 +1,56 @@
+{
+    "navbar" : [
+        {
+            "name" : "Archivos",
+            "ref" : "#files"
+        },{
+            "name" : "Proyecto",
+            "ref" : "#project"
+        },{
+            "name" : "Metodología",
+            "ref" : "#methods"
+        },{
+            "name" : "Resultados",
+            "ref" : "#results"
+        },{
+            "name" : "Conócenos",
+            "ref" : "#about"
+        }
+    ],
+    "title" : "Diseño de un Ambiente Virtual para Entrenamiento Muscular de Pacientes con una Amutación Transaradial que capta Señales Electromiográficas",
+    "files" : [
+        {
+            "title" : "Visita el Artículo",
+            "file" : "path"
+        },{
+            "title" : "Descarga el Artículo",
+            "file" : "path"
+        },{
+            "title" : "Visita el Póster",
+            "file" : "path"
+        }
+    ],
+    "about" : [
+        {
+            "name" : "Carlos A. Cancino Escobar",
+            "carrer" : "Ingeniería en Sistemas Computacionales",
+            "semester" : "Sexto Semestre",
+            "pp" : "../../public/images/pp.jpg"
+        },{
+            "name" : "Carlos Emilio Cruz Mendoza",
+            "carrer" : "Ingeniería Mecatrónica",
+            "semester" : "Sexto Semestre",
+            "pp" : "../../public/images/pp_Chapulin.jpg"
+        },{
+            "name" : "Jose Miguel Hernandez Ortega",
+            "carrer" : "Ingeniería Biomédica",
+            "semester" : "Sexto Semestre",
+            "pp" : "../../public/images/pp_Joss.jpg"
+        },{
+            "name" : "Nabila Nuñez Alonso",
+            "carrer" : "Ingeniería Biomédica",
+            "semester" : "Sexto Semestre",
+            "pp" : "../../public/images/pp_Nab.jpg"
+        }
+    ]
+}
