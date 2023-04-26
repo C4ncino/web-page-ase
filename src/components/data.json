@@ -35,22 +35,22 @@
             "name" : "Carlos A. Cancino Escobar",
             "carrer" : "Ingeniería en Sistemas Computacionales",
             "semester" : "Sexto Semestre",
-            "pp" : "../../public/images/pp.jpg"
+            "pp" : "/images/pp.jpg"
         },{
             "name" : "Carlos Emilio Cruz Mendoza",
             "carrer" : "Ingeniería Mecatrónica",
             "semester" : "Sexto Semestre",
-            "pp" : "../../public/images/pp_Chapulin.jpg"
+            "pp" : "/images/pp_Chapulin.jpg"
         },{
             "name" : "Jose Miguel Hernandez Ortega",
             "carrer" : "Ingeniería Biomédica",
             "semester" : "Sexto Semestre",
-            "pp" : "../../public/images/pp_Joss.jpg"
+            "pp" : "/images/pp_Joss.jpg"
         },{
             "name" : "Nabila Nuñez Alonso",
             "carrer" : "Ingeniería Biomédica",
             "semester" : "Sexto Semestre",
-            "pp" : "../../public/images/pp_Nab.jpg"
+            "pp" : "/images/pp_Nab.jpg"
         }
     ]
 }
